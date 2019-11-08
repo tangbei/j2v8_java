@@ -1,4 +1,4 @@
-package helper;
+package com.toolmall.v8.helper;
 
 import com.eclipsesource.v8.V8;
 import com.eclipsesource.v8.V8Array;

@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: j2v8_java
+  profiles:
+      active: dev

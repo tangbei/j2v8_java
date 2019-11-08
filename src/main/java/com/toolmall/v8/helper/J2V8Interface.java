@@ -1,4 +1,4 @@
-package helper;
+package com.toolmall.v8.helper;
 
 public interface J2V8Interface {
 

@@ -1,4 +1,4 @@
-package helper;
+package com.toolmall.v8.helper;
 
 /**
  * 所有使用j2v8解析json时，继承此类
